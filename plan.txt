@@ -1,0 +1,3 @@
+[.] For creating package .json file simply type npm init -y . 
+[.] Install express npm i express
+[.] install bcryptt.js for encrypting our passwords
